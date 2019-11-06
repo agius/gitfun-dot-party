@@ -8,4 +8,18 @@ I've written quite a few Github Apps for personal projects and for work, and tes
 
 To join [our Github Organization](https://github.com/gitfun-party) and our Slack team, email <henlo@gitfun.party>
 
+## Resources:
+
+- [gitfun.party](https://gitfun.party/) - the web sight itself
+- [the gitfun-party organization on Github](https://github.com/gitfun-party)
+- [gitfun-dot-party](https://github.com/gitfun-party/gitfun-dot-party) : the repo for this website
+- [gitfun-scripts](https://github.com/gitfun-party/gitfun-scripts) : a Ruby CLI for generating fakey data on the gitfun-party org
+- [this-repo-has-issues](https://github.com/gitfun-party/this-repo-has-issues) : a repo with a bunch of test Github Issues
+- [test-repo-template](https://github.com/gitfun-party/test-repo-template) : a [template repo](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) used to generate test repos
+- `test-repo-#{n}` : 150+ repos for testing things on
+
+
+
+## GIFs
+
 ![welcome to the party!](./img/welcome-to-the-party.gif)
